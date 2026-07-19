@@ -1,0 +1,9 @@
+/api/public/status
+/api/secure/data
+/api/internal/backup
+/api/dev/debug
+/api/test
+/api/v1/users
+/api/admin/metrics
+/api/system/logs
+/staging/api/v1
