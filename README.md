@@ -1,8 +1,8 @@
 # 🕵️ Shadow Route Scanner (Obscurity-Buster)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python)
-![Concurrency](https://img.shields.io/badge/Concurrency-Asyncio-brightgreen.svg)
-![Category](https://img.shields.io/badge/Category-DevSecOps-orange.svg)
+![Concurrency](https://img.shields.io/badge/Concurrency-Asyncio-2ea44f.svg?style=flat-square)
+![Category](https://img.shields.io/badge/Category-DevSecOps-e36209.svg?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 An asynchronous Proof of Concept (PoC) scanner designed to expose the dangers of **"Security by Obscurity"** by hunting down unauthenticated and hidden API endpoints in development environments.
